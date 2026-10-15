@@ -1,5 +1,6 @@
 # 项目里的东西
-- 由deepseek harness协助开发的脚本，可以快速拉取prts.wiki(https://prts.wiki/)的干员信息中的模型，目前仅支持提取默认状态的png格式。
+- 由deepseek harness协助开发的脚本，可以快速拉取prts.wiki(https://prts.wiki/)
+  的干员信息中的模型，目前仅支持提取默认状态的png格式。
 - 后续会增加提取其它模型
 # 声明
 - 本项目所有静态资源，版权均属于Arknights/上海鹰角网络科技有限公司，仅用于学习和交流，侵删。
